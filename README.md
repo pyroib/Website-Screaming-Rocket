@@ -1,6 +1,6 @@
-# SCreaming Rocket Web CMS
+# Screaming Rocket Web CMS
 
-A website I designed and built for ScreamingRocket.com.au. A Pre-loved clothing reseller
+A 2003 website I designed and built for ScreamingRocket.com.au. A Pre-loved clothing reseller
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ Project not taking contributions
 
 Copyright (C) 2003 Ian Blott - All Rights Reserved
 
-This project can not be copied and/or distributed without the express permission of Hannover Fairs Australia
+This project can not be copied and/or distributed without the express permission of Ian Blott / ScreamingRocket
 
 Unauthorized copying of this file, via any medium is strictly prohibited
 
