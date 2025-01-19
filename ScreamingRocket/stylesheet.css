@@ -1,0 +1,19 @@
+body		{background-color:white; text-align:center; margin:0px;}
+a:link		{color: 0080C0;}
+a:visited	{color: 056DBA;}
+a:active	{color: FF9900;}
+a:hover		{color: FF9900;}
+.welcome	{background-color:#FFFFFF; color:#000000; text-align:center; font-size:12px; font-face:tahoma;}
+.subform	{background-color:#FFFFFF; color:#000000; text-align:left; font-size:12px; font-face:tahoma;}
+.bottom		{color:#000000; text-align:center; font-size:12px; font-face:tahoma;}
+.border		{background-color:gray;}
+.blank		{background-color:white;}
+.bg1		{background-image: url(topbg.gif);}
+.bg2		{background-image: url(main_bg.gif);}
+.left-col img	{max-width:100px; }
+
+
+img[src^="bottom"],
+img[src^="top"] { display: block }
+
+.big		{ max-width:225px; }
