@@ -25,10 +25,6 @@ Project not taking contributions
 
 ## License
 
-Copyright (C) 2003 Ian Blott - All Rights Reserved
+CC 2003 Ian Blott - All Rights Reserved
 
-This project can not be copied and/or distributed without the express permission of Ian Blott / ScreamingRocket
-
-Unauthorized copying of this file, via any medium is strictly prohibited
-
-Proprietary and confidential
+This project can be copied and/or distributed without the express permission of Ian Blott / ScreamingRocket with credits to this repository
